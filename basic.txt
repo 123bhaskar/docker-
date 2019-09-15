@@ -1,8 +1,8 @@
 1.docker pull <image name>
 2.docker ps
 3.docker ps-a
-4.docker start<container id>[D[D[D[D[D[D[D[D[D[D[D[D[D[D <[C[C[C[C[C[C[C[C[C[C[C[C
-docker stop <[A[C[C[Ccontainer [A[B[B[Aid>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[Dcontainer id[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D5.docker stop <container id>
+4.docker start<container id>
+5.docker stop <container id>
 6.docker rm <container name>
 7.docker rmi <image id>
 8.docker images
